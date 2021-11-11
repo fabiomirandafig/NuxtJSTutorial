@@ -1,4 +1,6 @@
-# nuxt-tutorial
+# NuxtJS Tutorial
+Tutorial de NuxtJS disponibilizado no canal Pablo Codes
+
 
 ## Build Setup
 
